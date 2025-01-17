@@ -19,6 +19,3 @@ Thanks to the organizers, mentors, and participants for an incredible experience
 
 ---
 
-### Tags
-#Team404 #BitFestDatathon #KUETCSE #DataScience
-
